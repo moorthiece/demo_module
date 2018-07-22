@@ -4,6 +4,13 @@
   "description": "My Awesome Module 2",
   "keywords": ["Drupal"],
   "license": "GPL-2.0+",
+  "authors": [
+    {
+        "name": "Moorthi Ramasamy",
+        "email": "moorthi.webdev@yahoo.com",
+        "role": "Developer"
+    }
+  ],
   "homepage": "https://github.com/moorthiece/demo_module.git",
   "minimum-stability": "dev",
   "support": {
