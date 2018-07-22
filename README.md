@@ -1,2 +1,2 @@
-# first_module
+# demo_module
 Drupal 8 demo module for composer integration testing
